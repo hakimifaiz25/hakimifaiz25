@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Hakimi Faiz!
+## 👋 Hi, I'm Faiz Hakimi !
 
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100"/>
 
@@ -29,7 +29,7 @@
 
 ### 📫 How to Reach Me
 - Email: hakimifaiz25@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/faiz-hakimi-84779836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- LinkedIn: https://www.linkedin.com/in/faiz-hakimi-84779836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
